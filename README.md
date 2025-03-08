@@ -1,17 +1,24 @@
 # 🏧 Cajero Automático: Programa de Transacciones  
 
-Este proyecto es una aplicación de consola en C# que simula un cajero automático, permitiendo realizar diversas transacciones financieras utilizando la estructura de control `switch`.  
+Este proyecto es una aplicación de cómputo que permite al usuario ingresar un límite mayor y un límite menor para realizar cálculos con los números dentro de ese rango. 
 
 ## 🚀 Funcionalidades  
 
-- 🏦 **Retirar Dinero**: Facilita retiros de fondos disponibles en la cuenta.  
-- 📄 **Pago de Servicios**: Permite el pago de servicios como agua, electricidad o internet.  
-- 🔑 **Cambio de Clave**: Ofrece la opción de actualizar la clave de seguridad de la cuenta.  
-
+- 🔢 **Entrada de valores**: Permite ingresar un límite menor y un límite mayor.  
+- ➕ **Suma de números**: Calcula la suma de los números dentro del rango especificado.  
+- 🔎 **Identificación de primos**: Determina qué números dentro del rango son primos y cuáles no lo son.
+- 📌 **Muestra los números primos**:Presenta los números primos encontrados en el rango.
+- 
 ## 🛠 Tecnologías Utilizadas  
 
-- **Lenguaje de programación**: C#  
-- **Entorno de desarrollo**: Visual Studio / Visual Studio Code  
+- 🖥**Lenguaje de programación**: C#,Python, Java, C++, etc 
+- 🔧**Entorno de desarrollo**: Visual Studio / Visual Studio Code
+- 
+## 📄 Ejemplo de Uso
+
+- 1️⃣ Ingresar un límite menor y un límite mayor.  
+- 2️⃣ La aplicación calcula la suma de los números en el rango. 
+- 3️⃣ Muestra los números primos y no primos.
 
 ## 🖥 Instalación  
 
