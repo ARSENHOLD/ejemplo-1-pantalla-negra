@@ -1,5 +1,5 @@
 # ejemplo 1
-# Aplicación de Cálculo de Números Primos
+# 🏧 Aplicación de Cálculo de Números Primos
 
 Este proyecto es una aplicación de cómputo que permite al usuario ingresar un límite mayor y un límite menor. La aplicación realiza lo siguiente:
 
@@ -7,10 +7,12 @@ Este proyecto es una aplicación de cómputo que permite al usuario ingresar un 
 2. Determina cuáles de esos números son primos y cuáles no lo son.
 3. Muestra los números primos encontrados en el rango.
 
-## Funcionalidades
-- Entrada de dos valores: límite mayor y límite menor.
-- Suma de los números dentro del rango.
-- Identificación de números primos dentro del rango especificado.
+## 🚀 Funcionalidades
+
+🔢 Entrada de valores: Permite ingresar un límite menor y un límite mayor.
+➕ Suma de números: Calcula la suma de los números dentro del rango especificado.
+🔎 Identificación de primos: Determina qué números dentro del rango son primos y cuáles no lo son.
+📌 Muestra los números primos: Presenta los números primos encontrados en el rango.
 
 ## Tecnologías utilizadas
 - Lenguaje de programación: [Python, Java, C++, etc.]
