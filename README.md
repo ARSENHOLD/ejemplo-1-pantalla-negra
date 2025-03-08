@@ -1,31 +1,23 @@
-# ejemplo 1
-# 🏧 Aplicación de Cálculo de Números Primos
+# 🏧 Cajero Automático: Programa de Transacciones  
 
-Este proyecto es una aplicación de cómputo que permite al usuario ingresar un límite mayor y un límite menor. La aplicación realiza lo siguiente:
+Este proyecto es una aplicación de consola en C# que simula un cajero automático, permitiendo realizar diversas transacciones financieras utilizando la estructura de control `switch`.  
 
-1. Suma todos los números dentro del rango especificado entre el límite menor y el límite mayor.
-2. Determina cuáles de esos números son primos y cuáles no lo son.
-3. Muestra los números primos encontrados en el rango.
+## 🚀 Funcionalidades  
 
-## 🚀 Funcionalidades
+- 🏦 **Retirar Dinero**: Facilita retiros de fondos disponibles en la cuenta.  
+- 📄 **Pago de Servicios**: Permite el pago de servicios como agua, electricidad o internet.  
+- 🔑 **Cambio de Clave**: Ofrece la opción de actualizar la clave de seguridad de la cuenta.  
 
-🔢 **Entrada de valores:** Permite ingresar un límite menor y un límite mayor.
-➕ **Suma de números:** Calcula la suma de los números dentro del rango especificado.
-🔎 **Identificación de primos:** Determina qué números dentro del rango son primos y cuáles no lo son.
-📌 **Muestra los números primos:** Presenta los números primos encontrados en el rango.
+## 🛠 Tecnologías Utilizadas  
 
-## Tecnologías utilizadas
-- Lenguaje de programación: [Python, Java, C++, etc.]
-- [Otros lenguajes o tecnologías si es aplicable]
+- **Lenguaje de programación**: C#  
+- **Entorno de desarrollo**: Visual Studio / Visual Studio Code  
 
-## Ejemplo de uso
-1. Ingresar un límite menor y un límite mayor.
-2. La aplicación calcula la suma de los números en el rango.
-3. Muestra los números primos y no primos.
+## 🖥 Instalación  
 
-## Instalación
-Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
+Para ejecutar este proyecto en tu máquina local, sigue estos pasos:  
 
-1. Clona el repositorio:
+1. **Clona el repositorio:**  
    ```bash
-   git clone https://github.com/ARSENHOLD/ejemplo1.git
+   git clone https://github.com/ARSENHOLD/ejemplo-4-cajero-basico
+
