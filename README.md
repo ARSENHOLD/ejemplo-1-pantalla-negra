@@ -1,4 +1,4 @@
-# 🏧 Cajero Automático: Programa de Transacciones  
+# 🏧 Aplicación de Cálculo de Números Primos 
 
 Este proyecto es una aplicación de cómputo que permite al usuario ingresar un límite mayor y un límite menor para realizar cálculos con los números dentro de ese rango. 
 
