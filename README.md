@@ -9,10 +9,10 @@ Este proyecto es una aplicación de cómputo que permite al usuario ingresar un 
 
 ## 🚀 Funcionalidades
 
-🔢 Entrada de valores: Permite ingresar un límite menor y un límite mayor.
-➕ Suma de números: Calcula la suma de los números dentro del rango especificado.
-🔎 Identificación de primos: Determina qué números dentro del rango son primos y cuáles no lo son.
-📌 Muestra los números primos: Presenta los números primos encontrados en el rango.
+-🔢 Entrada de valores: Permite ingresar un límite menor y un límite mayor.
+-➕ Suma de números: Calcula la suma de los números dentro del rango especificado.
+-🔎 Identificación de primos: Determina qué números dentro del rango son primos y cuáles no lo son.
+-📌 Muestra los números primos: Presenta los números primos encontrados en el rango.
 
 ## Tecnologías utilizadas
 - Lenguaje de programación: [Python, Java, C++, etc.]
